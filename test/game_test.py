@@ -1,7 +1,7 @@
 import io
 import sys
 
-from src.game import game
+from game1 import game
 def game_test():
     choices = ["1", "2"]
 
