@@ -100,7 +100,8 @@ def right():
 def Dungeon():
     print("You are in the room1: Which room are you going next")
 
-    Options = ["Room 2: There is a monster inside", "Room 5:There is a pit"]
+    Options = ["Room 2: There is a monster inside",
+                "Room 5:There is a pit"]
 
     for option in Options:
         print(option)
