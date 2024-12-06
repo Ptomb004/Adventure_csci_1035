@@ -1,5 +1,4 @@
-game_data ={"Introduction": "Welcome to the Adventure Game!",
-            "scenarios": {
+game_data ={
                 "Start": {
                     "text":"Which game would you like to play?",
                      "choices": {
@@ -9,12 +8,12 @@ game_data ={"Introduction": "Welcome to the Adventure Game!",
                 
            
                 }  
-            },
+            ,
               "Carpool":{
                   "text": "You are in the car, which way are you going?",
                   "choices": {
-                      "1": "Left",
-                      "2": "Right"
+                                 "1": "Left",
+                                 "2": "Right"
                   },
 
                 "Left":{
